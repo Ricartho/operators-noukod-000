@@ -1,4 +1,4 @@
-require_relative '../lib/operations.rb'
+
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 
 
